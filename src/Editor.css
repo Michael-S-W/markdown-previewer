@@ -21,7 +21,7 @@ textarea{
     background-color: #c0d8d8;
     height: 200px;
     padding: 10px;
-    
+    transition: height 0.5s ease;
   }
 
   #minmax{
